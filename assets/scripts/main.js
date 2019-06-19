@@ -56,8 +56,11 @@ $(document).ready(function(){
 	   	window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSc-2SlPRjY6Fh6QzTlxo3xJcVIkfEkLQK4xkGGDiCLRrk_oow/viewform?usp=sf_link';
 		});
 	$('#lessons-nav').click(function() {
-	   	window.location.href='lessons.html';
+	   	window.location.href='/lessons';
 		});
+	/* .htaccess checks if the specified directory exists and then rewrites the name 
+		https://stackoverflow.com/questions/5730092/how-to-remove-html-from-url
+		*/
 
 	// Footer Buttons
 
