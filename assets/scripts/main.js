@@ -56,7 +56,7 @@ $(document).ready(function(){
 	   	window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSc-2SlPRjY6Fh6QzTlxo3xJcVIkfEkLQK4xkGGDiCLRrk_oow/viewform?usp=sf_link';
 		});
 	$('#lessons-nav').click(function() {
-	   	window.location.href='./lessons.html';
+	   	window.location.href='lessons.html';
 		});
 
 	// Footer Buttons
