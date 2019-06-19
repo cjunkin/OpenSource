@@ -40,13 +40,13 @@ $(document).ready(function(){
 
 	} else {
 		$('#home-nav').click(function() {
-   			window.location.href='index.html';
+   			window.location.href='/';
 		});
 		$('#about-us-nav').click(function() {
-	   		window.location.href='index.html';
+	   		window.location.href='/';
 		});
 		$('#projects-nav').click(function() {
-	   		window.location.href='index.html';
+	   		window.location.href='/';
 		});
 		$('#contact-nav').click(function() {
 	   		window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSe4U1fDkjBbr7y-ynNHrlp5B8n6Ai7_XrlOg965Q3lifYUV1w/viewform?usp=sf_link';
@@ -62,13 +62,13 @@ $(document).ready(function(){
 	// Footer Buttons
 
 	$('#footer-about').click(function() {
-	   	window.location.href='index.html';
+	   	window.location.href='/';
 		});
 	$('#footer-project').click(function() {
-	   		window.location.href='index.html';
+	   		window.location.href='/';
 		});
 	$('#footer-team').click(function() {
-	   	window.location.href='index.html';
+	   	window.location.href='/';
 		});
 	$('#footer-apply').click(function() {
 	   	window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSc-2SlPRjY6Fh6QzTlxo3xJcVIkfEkLQK4xkGGDiCLRrk_oow/viewform?usp=sf_link';
